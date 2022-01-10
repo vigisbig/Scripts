@@ -35,10 +35,15 @@ Purchasing a new piece of toughened glass and making a board out of it would be 
 Here's the summary of things along with prices that I used to make this work.
 
 Glass price 1000 Rs (approx 95 / sqft)
+
 Fasteners M6 Bolt 20 Rs
+
 Mild steel Angle 300 Rs
+
 Stainless steel studs and dry wall screws 140
+
 Drill bit 8mm (For metal) 70 Rs
+
 Drill bit 8mm (For wall) 50 Rs
 
 If you have some of the other tools like Drill machine, Hammer, Screw driver set, Spanner set etc. this small project should be really easy to execute.

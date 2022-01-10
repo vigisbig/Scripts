@@ -1,4 +1,4 @@
-﻿hello everyone, and welcome to my channel.
+﻿Hello everyone, and welcome to my channel.
 
 What you see on your screen is a piece of glass, mounted on a wall in my room. As you can see that the wall color behind the glass is quite light, my intention is therefore to use this glass for writing and may be even make use of it to make educational videos for youtube. We will see how it goes.
 
